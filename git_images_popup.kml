@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="13">
+        <Style id="16">
+            <BalloonStyle>
+                <text>&lt;table border=&quot;0&quot;&gt; &lt;tr&gt;&lt;td&gt;&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://raw.githubusercontent.com/vishnutejabojja/Kml/main/DJI_0142_T.JPG&quot;&gt;&lt;/td&gt;&lt;/tr&gt; &lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Filename&lt;/b&gt;&lt;/td&gt;&lt;td&gt;DJI_0139_W.JPG&lt;/td&gt;&lt;/tr&gt;</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="20">
+            <BalloonStyle>
+                <text>&lt;table border=&quot;0&quot;&gt; &lt;tr&gt;&lt;td&gt;&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://raw.githubusercontent.com/vishnutejabojja/Kml/main/DJI_0140_T.JPG&quot;&gt;&lt;/td&gt;&lt;/tr&gt; &lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Filename&lt;/b&gt;&lt;/td&gt;&lt;td&gt;DJI_0140_T.JPG&lt;/td&gt;&lt;/tr&gt;</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="24">
+            <BalloonStyle>
+                <text>&lt;table border=&quot;0&quot;&gt; &lt;tr&gt;&lt;td&gt;&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://raw.githubusercontent.com/vishnutejabojja/Kml/main/DJI_0144_T.JPG&quot;&gt;&lt;/td&gt;&lt;/tr&gt; &lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Filename&lt;/b&gt;&lt;/td&gt;&lt;td&gt;DJI_0141_W.JPG&lt;/td&gt;&lt;/tr&gt;</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="28">
+            <BalloonStyle>
+                <text>&lt;table border=&quot;0&quot;&gt; &lt;tr&gt;&lt;td&gt;&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://raw.githubusercontent.com/vishnutejabojja/Kml/main/DJI_0142_T.JPG&quot;&gt;&lt;/td&gt;&lt;/tr&gt; &lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Filename&lt;/b&gt;&lt;/td&gt;&lt;td&gt;DJI_0142_T.JPG&lt;/td&gt;&lt;/tr&gt;</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="32">
+            <BalloonStyle>
+                <text>&lt;table border=&quot;0&quot;&gt; &lt;tr&gt;&lt;td&gt;&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://raw.githubusercontent.com/vishnutejabojja/Kml/main/DJI_0140_T.JPG&quot;&gt;&lt;/td&gt;&lt;/tr&gt; &lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Filename&lt;/b&gt;&lt;/td&gt;&lt;td&gt;DJI_0143_W.JPG&lt;/td&gt;&lt;/tr&gt;</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="36">
+            <BalloonStyle>
+                <text>&lt;table border=&quot;0&quot;&gt; &lt;tr&gt;&lt;td&gt;&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://raw.githubusercontent.com/vishnutejabojja/Kml/main/DJI_0144_T.JPG&quot;&gt;&lt;/td&gt;&lt;/tr&gt; &lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Filename&lt;/b&gt;&lt;/td&gt;&lt;td&gt;DJI_0144_T.JPG&lt;/td&gt;&lt;/tr&gt;</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="40">
+            <BalloonStyle>
+                <text>&lt;table border=&quot;0&quot;&gt; &lt;tr&gt;&lt;td&gt;&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://raw.githubusercontent.com/vishnutejabojja/Kml/main/DJI_0142_T.JPG&quot;&gt;&lt;/td&gt;&lt;/tr&gt; &lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Filename&lt;/b&gt;&lt;/td&gt;&lt;td&gt;DJI_0145_W.JPG&lt;/td&gt;&lt;/tr&gt;</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="44">
+            <BalloonStyle>
+                <text>&lt;table border=&quot;0&quot;&gt; &lt;tr&gt;&lt;td&gt;&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://raw.githubusercontent.com/vishnutejabojja/Kml/main/DJI_0140_T.JPG&quot;&gt;&lt;/td&gt;&lt;/tr&gt; &lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Filename&lt;/b&gt;&lt;/td&gt;&lt;td&gt;DJI_0146_T.JPG&lt;/td&gt;&lt;/tr&gt;</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="48">
+            <BalloonStyle>
+                <text>&lt;table border=&quot;0&quot;&gt; &lt;tr&gt;&lt;td&gt;&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://raw.githubusercontent.com/vishnutejabojja/Kml/main/DJI_0144_T.JPG&quot;&gt;&lt;/td&gt;&lt;/tr&gt; &lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Filename&lt;/b&gt;&lt;/td&gt;&lt;td&gt;DJI_0147_W.JPG&lt;/td&gt;&lt;/tr&gt;</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Style id="52">
+            <BalloonStyle>
+                <text>&lt;table border=&quot;0&quot;&gt; &lt;tr&gt;&lt;td&gt;&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://raw.githubusercontent.com/vishnutejabojja/Kml/main/DJI_0142_T.JPG&quot;&gt;&lt;/td&gt;&lt;/tr&gt; &lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Filename&lt;/b&gt;&lt;/td&gt;&lt;td&gt;DJI_0148_T.JPG&lt;/td&gt;&lt;/tr&gt;</text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <Placemark id="15">
+            <name>0139</name>
+            <description>
+<![CDATA[<img style="max-width:500px;" src="https://raw.githubusercontent.com/vishnutejabojja/Kml/main/DJI_0142_T.JPG">]]>            </description>
+            <styleUrl>#16</styleUrl>
+            <Point id="14">
+                <coordinates>78.17312669444445,17.0564405,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>0140</name>
+            <description>
+<![CDATA[<img style="max-width:500px;" src="https://raw.githubusercontent.com/vishnutejabojja/Kml/main/DJI_0140_T.JPG">]]>            </description>
+            <styleUrl>#20</styleUrl>
+            <Point id="18">
+                <coordinates>78.17312811111111,17.056441222222222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>0141</name>
+            <description>
+<![CDATA[<img style="max-width:500px;" src="https://raw.githubusercontent.com/vishnutejabojja/Kml/main/DJI_0144_T.JPG">]]>            </description>
+            <styleUrl>#24</styleUrl>
+            <Point id="22">
+                <coordinates>78.17318916666667,17.05644336111111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>0142</name>
+            <description>
+<![CDATA[<img style="max-width:500px;" src="https://raw.githubusercontent.com/vishnutejabojja/Kml/main/DJI_0142_T.JPG">]]>            </description>
+            <styleUrl>#28</styleUrl>
+            <Point id="26">
+                <coordinates>78.17319822222223,17.056443444444444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>0143</name>
+            <description>
+<![CDATA[<img style="max-width:500px;" src="https://raw.githubusercontent.com/vishnutejabojja/Kml/main/DJI_0140_T.JPG">]]>            </description>
+            <styleUrl>#32</styleUrl>
+            <Point id="30">
+                <coordinates>78.17323683333333,17.056443416666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>0144</name>
+            <description>
+<![CDATA[<img style="max-width:500px;" src="https://raw.githubusercontent.com/vishnutejabojja/Kml/main/DJI_0144_T.JPG">]]>            </description>
+            <styleUrl>#36</styleUrl>
+            <Point id="34">
+                <coordinates>78.17324558333334,17.056443277777777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>0145</name>
+            <description>
+<![CDATA[<img style="max-width:500px;" src="https://raw.githubusercontent.com/vishnutejabojja/Kml/main/DJI_0142_T.JPG">]]>            </description>
+            <styleUrl>#40</styleUrl>
+            <Point id="38">
+                <coordinates>78.17329563888889,17.056443083333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>0146</name>
+            <description>
+<![CDATA[<img style="max-width:500px;" src="https://raw.githubusercontent.com/vishnutejabojja/Kml/main/DJI_0140_T.JPG">]]>            </description>
+            <styleUrl>#44</styleUrl>
+            <Point id="42">
+                <coordinates>78.17330433333333,17.056443055555555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="47">
+            <name>0147</name>
+            <description>
+<![CDATA[<img style="max-width:500px;" src="https://raw.githubusercontent.com/vishnutejabojja/Kml/main/DJI_0144_T.JPG">]]>            </description>
+            <styleUrl>#48</styleUrl>
+            <Point id="46">
+                <coordinates>78.17335561111112,17.05644338888889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>0148</name>
+            <description>
+<![CDATA[<img style="max-width:500px;" src="https://raw.githubusercontent.com/vishnutejabojja/Kml/main/DJI_0142_T.JPG">]]>            </description>
+            <styleUrl>#52</styleUrl>
+            <Point id="50">
+                <coordinates>78.17336433333334,17.056443166666668,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
