@@ -3,14 +3,14 @@
     <Document id="1">
         <Style id="4">
             <BalloonStyle>
-                <text>&lt;table border=&quot;0&quot;&gt; &lt;tr&gt;&lt;td&gt;&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://m.economictimes.com/thumb/msid-69130611,width-1200,height-900,resizemode-4,imgsize-472342/polycrystalline-solar-panels-cheap-yet-efficient-long-lasting-solar-panels.jpg&quot;&gt;&lt;/td&gt;&lt;/tr&gt; &lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Filename&lt;/b&gt;&lt;/td&gt;&lt;td&gt;DJI_0139_W.JPG&lt;/td&gt;&lt;/tr&gt;</text>
+                <text>&lt;table border=&quot;0&quot;&gt; &lt;tr&gt;&lt;td&gt;&lt;img style=&quot;max-width:500px;&quot; src=&quot;https://raw.githubusercontent.com/vishnutejabojja/Kml/main/DJI_0144_T.JPG&quot;&gt;&lt;/td&gt;&lt;/tr&gt; &lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Filename&lt;/b&gt;&lt;/td&gt;&lt;td&gt;DJI_0139_W.JPG&lt;/td&gt;&lt;/tr&gt;</text>
                 <displayMode>default</displayMode>
             </BalloonStyle>
         </Style>
         <Placemark id="3">
             <name>Solar panel</name>
             <description>
-            <![CDATA[<img style="max-width:500px;" src="file:///https://m.economictimes.com/thumb/msid-69130611,width-1200,height-900,resizemode-4,imgsize-472342/polycrystalline-solar-panels-cheap-yet-efficient-long-lasting-solar-panels.jpg">]]>            </description>
+            <![CDATA[<img style="max-width:500px;" src="file:///https://raw.githubusercontent.com/vishnutejabojja/Kml/main/DJI_0144_T.JPG">]]>            </description>
             <styleUrl>#4</styleUrl>
             <Point id="2">
                 <coordinates>78.17319822222223,17.056443444444444,0.0</coordinates>
